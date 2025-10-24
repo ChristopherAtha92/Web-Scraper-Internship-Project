@@ -34,6 +34,8 @@ This project is a Python tool that automatically searches Wikipedia and returns 
    playwright install
 If you want to use the AI-driven version, create a .env file in the project root with your OpenAI API key:OPENAI_API_KEY=your_openai_api_key_here
 
+See envExample.txt for reference
+
 
 if you choose to run without AI run wiki_scraper.py
 
