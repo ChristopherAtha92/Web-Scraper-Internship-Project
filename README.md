@@ -40,3 +40,5 @@ See envExample.txt for reference
 if you choose to run without AI run wiki_scraper.py
 
 if you choose to use AI run ai_brain.py
+
+Example use of project: https://www.youtube.com/watch?v=mCSGfWFVjqQ
